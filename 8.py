@@ -35,5 +35,5 @@ def main(login, password):
     else:
         print('Кто-то пытался притвориться пользователем ' + login.lower() + ', но в пароле допустил ошибку: ' + mes.upper() + '.')
 
-main("anastasia", "nsyatos")
+main("login", "aaalgn")
 
